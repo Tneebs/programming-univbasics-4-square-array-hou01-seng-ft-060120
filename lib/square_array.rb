@@ -9,5 +9,6 @@ new_array = []
 end 
 
 
-numbers.length.time  
+numbers.length.time do |index|
+  
 # your code here
