@@ -9,4 +9,6 @@ new_array = []
   new_array
 end 
 
+
+numbers.time.length 
 # your code here
