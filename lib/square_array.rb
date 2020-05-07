@@ -1,11 +1,12 @@
 def square_array(numbers)
 count = 0 
+new_array = []
 
   while count < numbers.length do
-    numbers[count] ** 2 
+    new_array = numbers[count] ** 2 
     count += 1 
   end
-  numbers
+  new_array
 end 
 
 # your code here
