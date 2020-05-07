@@ -10,5 +10,5 @@ end
 
 
 numbers.length.time do |index|
-  new_array.push(numbers)
+  new_array.push(numbers[index]+1)
 # your code here
