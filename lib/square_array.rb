@@ -9,5 +9,5 @@ new_array = []
 end 
 
 
-numbers.time.length 
+numbers.length.time  
 # your code here
